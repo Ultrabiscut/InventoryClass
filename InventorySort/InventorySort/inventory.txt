@@ -1,0 +1,10 @@
+Demon_Blood_Sword 15 621 Equip 1 1
+Red_Potion 2 15 Consume 3 0
+Blue_Potion 2 15 Consume 1 0
+Greasy_Mutton 5 9 Consume 1 0
+Hylian_Shield 20 593 Equip 1 1
+Mace_of_Braining 19 477 Equip 1 1
+Poisoners_Gloves 3 245 Equip 1 1
+Radaway 	5 30 Consume 5 0
+Key_Blade 21 800 Equip 1 1
+Nuka-Cola 2 10 Consume 6 0
